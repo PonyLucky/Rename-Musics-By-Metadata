@@ -15,5 +15,5 @@ The metadata is read from the file's tags. Hence you need the files to have the 
 3. Type: `cd /path/to/script`
 4. Press enter.
 5. Go to the folder where your music files are located and copy-paste its path.
-6. Type: `python rename_by_metadata.py /path/to/music/files`
+6. Type: `python rename_by_metadata.py -d /path/to/music/files`
 7. Press enter.
